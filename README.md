@@ -1,4 +1,4 @@
-#TP2 Selenium_TunisiaNet
+# TP2 Selenium_TunisiaNet
 
 Dans le cadre du développement d'une application, quelle qu'elle soit, les tests sont indispensables, et prennent une part non négligeable du développement. Il en existe plusieurs types : unitaires, intégration, fonctionnels, qualification, etc. Aujourd'hui, la plupart sont automatisés, ce qui permet un gain de temps substantiel, ainsi qu'une plus grande fiabilité.
 Selenium est un de ces outils d'automatisation, concernant les tests d'interface des applications Web. Il se compose de deux parties :
